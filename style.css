@@ -14,8 +14,12 @@ h2 {
   margin: 0px;
 }
 
+nav h2{
+  display: inline-block;
+}
+
 nav {
-  width: 40%;
+  width: 100%;
   float: right;
   font-family: candara;
 }
